@@ -1,14 +1,3 @@
-/**
- * oneko.js: https://github.com/adryd325/oneko.js
- *
- * 原作者: adryd325: https://github.com/adryd325
- * 修改: s22y: https://github.com/sooooooooooooooooootheby
- *
- * original author: adryd325: https://github.com/adryd325
- * revamp: s22y: https://github.com/sooooooooooooooooootheby
- *
- */
-
 import { defineNuxtPlugin } from "#app";
 
 const nekoFile = "/oneko.gif";
